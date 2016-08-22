@@ -59,7 +59,7 @@ q2: O(logn)
 q3: O(2^n)
 q4: O(sqrtn)
 q5: O(1)
-q6: trick question. would be O(n/logn) if it follow the previous format
+q6: trick question. would be O(n/logn) if it followed the previous format
 q7: O(n)
 q8: O(2^n)
 */
